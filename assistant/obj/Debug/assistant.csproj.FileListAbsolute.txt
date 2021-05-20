@@ -1,0 +1,176 @@
+C:\Users\bedaba\Downloads\Compressed\Jarvis-master\Jarvis-master\JARVIS\bin\Debug\assistant.exe.config
+C:\Users\bedaba\Downloads\Compressed\Jarvis-master\Jarvis-master\JARVIS\bin\Debug\assistant.exe
+C:\Users\bedaba\Downloads\Compressed\Jarvis-master\Jarvis-master\JARVIS\bin\Debug\assistant.pdb
+C:\Users\bedaba\Downloads\Compressed\Jarvis-master\Jarvis-master\JARVIS\obj\Debug\assistant.csproj.ResolveComReference.cache
+C:\Users\bedaba\Downloads\Compressed\Jarvis-master\Jarvis-master\JARVIS\obj\Debug\george.googleOther.resources
+C:\Users\bedaba\Downloads\Compressed\Jarvis-master\Jarvis-master\JARVIS\obj\Debug\george.george.resources
+C:\Users\bedaba\Downloads\Compressed\Jarvis-master\Jarvis-master\JARVIS\obj\Debug\assistant.Properties.Resources.resources
+C:\Users\bedaba\Downloads\Compressed\Jarvis-master\Jarvis-master\JARVIS\obj\Debug\george.Search.resources
+C:\Users\bedaba\Downloads\Compressed\Jarvis-master\Jarvis-master\JARVIS\obj\Debug\george.sendMailInput.resources
+C:\Users\bedaba\Downloads\Compressed\Jarvis-master\Jarvis-master\JARVIS\obj\Debug\assistant.csproj.GenerateResource.cache
+C:\Users\bedaba\Downloads\Compressed\Jarvis-master\Jarvis-master\JARVIS\obj\Debug\assistant.csproj.CoreCompileInputs.cache
+C:\Users\bedaba\Downloads\Compressed\Jarvis-master\Jarvis-master\JARVIS\obj\Debug\assistant.exe
+C:\Users\bedaba\Downloads\Compressed\Jarvis-master\Jarvis-master\JARVIS\obj\Debug\assistant.pdb
+C:\Users\bedaba\Downloads\Compressed\Jarvis-master\Jarvis-master\JARVIS\obj\Debug\assistant.csprojAssemblyReference.cache
+C:\Users\bedaba\Desktop\assistant2\assistant\bin\Debug\assistant.exe.config
+C:\Users\bedaba\Desktop\assistant2\assistant\bin\Debug\assistant.exe
+C:\Users\bedaba\Desktop\assistant2\assistant\bin\Debug\assistant.pdb
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\george.googleOther.resources
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\george.george.resources
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\assistant.Properties.Resources.resources
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\george.Search.resources
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\george.sendMailInput.resources
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\assistant.csproj.GenerateResource.cache
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\assistant.csproj.CoreCompileInputs.cache
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\assistant.exe
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\assistant.pdb
+C:\Users\bedaba\Desktop\assistant2\assistant\bin\Debug\Guna.UI2.dll
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\assistant.csproj.CopyComplete
+C:\Users\bedaba\Desktop\assistant2\assistant\bin\Debug\Bass.Net.dll
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\Spectrum.g.cs
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\assistant_MarkupCompile.cache
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\assistant_MarkupCompile.lref
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\Spectrum.baml
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\assistant.g.resources
+C:\Users\bedaba\Desktop\assistant2\assistant\bin\Debug\ManagedBass.dll
+C:\Users\bedaba\Desktop\assistant2\assistant\bin\Debug\ManagedBass.xml
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\george.Websearch.resources
+C:\Users\bedaba\Desktop\assistant2\assistant\bin\Debug\MetroFramework.dll
+C:\Users\bedaba\Desktop\assistant2\assistant\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\assistant_Content.g.cs
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\assistant.csprojAssemblyReference.cache
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\assistant.frm_gps.resources
+C:\Users\bedaba\Desktop\assistant2\assistant\bin\Debug\S22.Imap.dll
+C:\Users\bedaba\Desktop\assistant2\assistant\bin\Debug\Xander.UI.Web.dll
+C:\Users\bedaba\Desktop\assistant2\assistant\bin\Debug\XanderUI.dll
+C:\Users\bedaba\Desktop\assistant2\assistant\bin\Debug\S22.Imap.xml
+C:\Users\bedaba\Desktop\assistant2\assistant\bin\Debug\Xander.UI.Web.pdb
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\assistant.chat.resources
+C:\Users\bedaba\Desktop\assistant2\assistant\obj\Debug\assistant.dina.resources
+F:\old windows\desktop\assistant2\assistant\obj\Debug\assistant.csprojAssemblyReference.cache
+F:\old windows\desktop\assistant2\assistant\obj\Debug\Spectrum.g.cs
+F:\old windows\desktop\assistant2\assistant\obj\Debug\assistant_Content.g.cs
+F:\old windows\desktop\assistant2\assistant\obj\Debug\assistant_MarkupCompile.cache
+F:\old windows\desktop\assistant2\assistant\obj\Debug\assistant_MarkupCompile.lref
+F:\old windows\desktop\assistant2\assistant\obj\Debug\assistant.exe
+F:\old windows\desktop\assistant2\assistant\obj\Debug\assistant.pdb
+F:\old windows\desktop\assistant2\assistant\bin\Debug\assistant.exe.config
+F:\old windows\desktop\assistant2\assistant\bin\Debug\assistant.exe
+F:\old windows\desktop\assistant2\assistant\bin\Debug\assistant.pdb
+F:\old windows\desktop\assistant2\assistant\bin\Debug\Bass.Net.dll
+F:\old windows\desktop\assistant2\assistant\bin\Debug\Guna.UI2.dll
+F:\old windows\desktop\assistant2\assistant\bin\Debug\ManagedBass.dll
+F:\old windows\desktop\assistant2\assistant\bin\Debug\MetroFramework.dll
+F:\old windows\desktop\assistant2\assistant\bin\Debug\MetroFramework.Fonts.dll
+F:\old windows\desktop\assistant2\assistant\bin\Debug\S22.Imap.dll
+F:\old windows\desktop\assistant2\assistant\bin\Debug\Xander.UI.Web.dll
+F:\old windows\desktop\assistant2\assistant\bin\Debug\XanderUI.dll
+F:\old windows\desktop\assistant2\assistant\bin\Debug\ManagedBass.xml
+F:\old windows\desktop\assistant2\assistant\bin\Debug\S22.Imap.xml
+F:\old windows\desktop\assistant2\assistant\bin\Debug\Xander.UI.Web.pdb
+F:\old windows\desktop\assistant2\assistant\obj\Debug\Spectrum.baml
+F:\old windows\desktop\assistant2\assistant\obj\Debug\assistant.g.resources
+F:\old windows\desktop\assistant2\assistant\obj\Debug\assistant.chat.resources
+F:\old windows\desktop\assistant2\assistant\obj\Debug\assistant.Form1.resources
+F:\old windows\desktop\assistant2\assistant\obj\Debug\assistant.frm_gps.resources
+F:\old windows\desktop\assistant2\assistant\obj\Debug\george.googleOther.resources
+F:\old windows\desktop\assistant2\assistant\obj\Debug\george.george.resources
+F:\old windows\desktop\assistant2\assistant\obj\Debug\assistant.Properties.Resources.resources
+F:\old windows\desktop\assistant2\assistant\obj\Debug\george.Search.resources
+F:\old windows\desktop\assistant2\assistant\obj\Debug\george.sendMailInput.resources
+F:\old windows\desktop\assistant2\assistant\obj\Debug\george.Websearch.resources
+F:\old windows\desktop\assistant2\assistant\obj\Debug\assistant.csproj.GenerateResource.cache
+F:\old windows\desktop\assistant2\assistant\obj\Debug\assistant.csproj.CoreCompileInputs.cache
+F:\old windows\desktop\assistant2\assistant\obj\Debug\assistant.csproj.CopyComplete
+F:\old windows\desktop\assistant2\assistant\bin\Debug\Guna.UI.dll
+F:\old windows\desktop\assistant2\assistant\obj\Debug\assistant.frm.resources
+C:\Users\PC\Desktop\project 1\assistant2\assistant\bin\Debug\assistant.exe.config
+C:\Users\PC\Desktop\project 1\assistant2\assistant\bin\Debug\assistant.exe
+C:\Users\PC\Desktop\project 1\assistant2\assistant\bin\Debug\assistant.pdb
+C:\Users\PC\Desktop\project 1\assistant2\assistant\bin\Debug\Bass.Net.dll
+C:\Users\PC\Desktop\project 1\assistant2\assistant\bin\Debug\ManagedBass.dll
+C:\Users\PC\Desktop\project 1\assistant2\assistant\bin\Debug\MetroFramework.dll
+C:\Users\PC\Desktop\project 1\assistant2\assistant\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\PC\Desktop\project 1\assistant2\assistant\bin\Debug\S22.Imap.dll
+C:\Users\PC\Desktop\project 1\assistant2\assistant\bin\Debug\ManagedBass.xml
+C:\Users\PC\Desktop\project 1\assistant2\assistant\bin\Debug\S22.Imap.xml
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\Spectrum.g.cs
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\assistant_Content.g.cs
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\assistant_MarkupCompile.cache
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\assistant_MarkupCompile.lref
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\Spectrum.baml
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\assistant.g.resources
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\assistant.chat.resources
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\assistant.Form1.resources
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\assistant.frm.resources
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\assistant.Form3.resources
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\assistant.frm_gps.resources
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\george.googleOther.resources
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\george.george.resources
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\assistant.Properties.Resources.resources
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\george.Search.resources
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\george.sendMailInput.resources
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\george.Websearch.resources
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\assistant.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\assistant.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\assistant.csproj.CopyComplete
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\assistant.exe
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\assistant.pdb
+C:\Users\PC\Desktop\project 1\assistant2\assistant\bin\Debug\Grammar.txt
+C:\Users\PC\Desktop\project 1\assistant2\assistant\bin\Debug\Emgu.CV.dll
+C:\Users\PC\Desktop\project 1\assistant2\assistant\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\PC\Desktop\project 1\assistant2\assistant\bin\Debug\Emgu.CV.ML.dll
+C:\Users\PC\Desktop\project 1\assistant2\assistant\bin\Debug\Emgu.CV.UI.dll
+C:\Users\PC\Desktop\project 1\assistant2\assistant\bin\Debug\Emgu.Util.dll
+C:\Users\PC\Desktop\project 1\assistant2\assistant\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\PC\Desktop\project 1\assistant2\assistant\bin\Debug\OpenTK.dll
+C:\Users\PC\Desktop\project 1\assistant2\assistant\bin\Debug\OpenTK.xml
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\george.FrmPrincipal.resources
+C:\Users\PC\Desktop\project 1\assistant2\assistant\bin\Debug\Guna.UI2.dll
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\assistant.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\project 1\assistant2\assistant\obj\Debug\george.RegisterFace.resources
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\bin\Debug\Emgu.CV.dll
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\bin\Debug\Emgu.CV.ML.dll
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\bin\Debug\Emgu.CV.UI.dll
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\bin\Debug\Emgu.Util.dll
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\bin\Debug\Grammar.txt
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\bin\Debug\assistant.exe.config
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\bin\Debug\assistant.exe
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\bin\Debug\assistant.pdb
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\bin\Debug\Bass.Net.dll
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\bin\Debug\Guna.UI2.dll
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\bin\Debug\ManagedBass.dll
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\bin\Debug\MetroFramework.dll
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\bin\Debug\OpenTK.dll
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\bin\Debug\S22.Imap.dll
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\bin\Debug\ManagedBass.xml
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\bin\Debug\OpenTK.xml
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\bin\Debug\S22.Imap.xml
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\assistant.csprojAssemblyReference.cache
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\Spectrum.g.cs
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\assistant_Content.g.cs
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\assistant_MarkupCompile.cache
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\assistant_MarkupCompile.lref
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\Spectrum.baml
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\assistant.g.resources
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\assistant.chat.resources
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\assistant.Form1.resources
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\assistant.frm.resources
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\assistant.Form3.resources
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\assistant.frm_gps.resources
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\george.googleOther.resources
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\george.george.resources
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\george.FrmPrincipal.resources
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\assistant.Properties.Resources.resources
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\george.RegisterFace.resources
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\george.Search.resources
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\george.sendMailInput.resources
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\george.Websearch.resources
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\assistant.csproj.GenerateResource.cache
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\assistant.csproj.CoreCompileInputs.cache
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\assistant.csproj.CopyComplete
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\assistant.exe
+C:\Users\bedab\Downloads\G3 project\assistant2\assistant\obj\Debug\assistant.pdb
